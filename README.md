@@ -1,3 +1,3 @@
 # CodeX
 This is my first git repository.
-Author- Jasbir Singh
+Author- Jasbir Singh Hanjra
